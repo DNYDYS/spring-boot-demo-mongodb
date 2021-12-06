@@ -159,7 +159,7 @@ public class Article {
  * </p>
  *
  * @author dnydys
- * @date Created in 2018-12-28 16:30
+ * @date Created in 2021-12-06 22:30
  */
 public interface ArticleRepository extends MongoRepository<Article, Long> {
     /**
@@ -181,7 +181,7 @@ public interface ArticleRepository extends MongoRepository<Article, Long> {
  * </p>
  *
  * @author dnydys
- * @date Created in 2018-12-28 16:35
+ * @date Created in 2021-12-06 22:30
  */
 @Slf4j
 public class ArticleRepositoryTest extends SpringBootDemoMongodbApplicationTests {
