@@ -1,6 +1,7 @@
 # spring-boot-demo-mongodb
 
-> 此 demo 主要演示了 Spring Boot 如何集成 MongoDB，使用官方的 starter 实现增删改查。
+文章地址：https://blog.csdn.net/weixin_42254034/article/details/121758059
+>  Spring Boot 集成 MongoDB，使用官方的 starter 实现增删改查。
 
 ## 注意
 monogodb为windows 5.0.4版本
